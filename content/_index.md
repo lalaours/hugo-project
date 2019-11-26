@@ -1,7 +1,7 @@
 +++
-title = "Hugo-Webslides"
+title = "Les Avantages des sites Statiques"
 +++
-<!--: .wrap .size-40 ..aligncenter bgimage=images/dog1.jpg -->
+<!--: .wrap .size-30 ..alignright bgimage=images/dog1.jpg -->
 
 
 ## **Bienvenue sur Hugo**
